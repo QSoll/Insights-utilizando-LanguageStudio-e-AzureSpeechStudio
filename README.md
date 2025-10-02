@@ -1,3 +1,5 @@
+<img src="IA1.jpg">
+
 # Insights com Language Studio e Azure Speech Studio 
 
 # utilizando IA para converter voz em texto e análise do atendimento
@@ -94,4 +96,4 @@ Este caso simulado demonstra como ferramentas de IA podem ser aplicadas para:
 - Apoiar decisões estratégicas em empresas que lidam com alto volume de interações humanas
   
 
-<img src="" width="100px" height="120px">
+<img src="https://solmorcillo.com.br/imgs_public/logo_SM.jpg" width="100px" height="120px">
