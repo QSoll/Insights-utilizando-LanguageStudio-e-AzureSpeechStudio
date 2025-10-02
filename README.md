@@ -4,9 +4,9 @@
 
 # utilizando IA para converter voz em texto e análise do atendimento
 
-Uma empresa fictícia, especializada em vendas online, possui um call center para atendimento ao cliente e recebe a ligação de uma cliente para relatar um problema com a entrega de seu pedido: Tanto a caixa quanto o produtos chegaram amassados.
+Uma empresa fictícia, especializada em vendas online, possui um call center para atendimento ao cliente e recebe a ligação de uma cliente relatando um problema com a entrega de seu pedido: Caixa danificada e produto amassado.
 
-A funcionária do call center propõe solucionar o problema solicitando que o produto seja enviado de volta para que a empresa, para que seja realizada a análise do produto, para que a troca seja feita.
+A funcionária do call center propõe solucionar o problema solicitando que o produto seja enviado de volta para a empresa, para análise e troca do produto.
 
 A cliente aceita a proposta e, ao final do atendimento, responde a uma pesquisa de satisfação:
 
